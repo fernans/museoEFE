@@ -1,0 +1,30 @@
+<general reset="180" resetpage="1" />
+<!-- reset=segundos (3min*60=180) sin actividad para ir a pagina resetpage -->
+
+<nadie url="media/nadie.jpg" time="3" />
+<!-- imagen cuando no hay nadie delante, y tiempo para quitarla cuando se detecte a alguien -->
+
+<source url="media/PROD Pantallas Wii Deportes-1.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-2.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-3.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-4.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-5.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-6.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-7.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-8.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-9.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-10.jpg" />
+
+<source url="media/PROD Pantallas Wii Deportes-11.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-12.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-13.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-14.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-15.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-16.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-17.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-18.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-19.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-20.jpg" />
+
+<source url="media/PROD Pantallas Wii Deportes-21.jpg" />
+<source url="media/PROD Pantallas Wii Deportes-22.jpg" />

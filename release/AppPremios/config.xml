@@ -1,0 +1,35 @@
+<general reset="180" resetpage="1" />
+<!-- reset=segundos (3min*60=180) sin actividad para ir a pagina resetpage -->
+
+<nadie url="media/nadie.jpg" time="3" />
+<!-- imagen cuando no hay nadie delante, y tiempo para quitarla cuando se detecte a alguien -->
+
+<source url="media/#6 Pantallas Wii Premio Fotos-1.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-2.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-3.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-4.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-5.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-6.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-7.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-8.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-9.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-10.jpg" />
+
+<source url="media/#6 Pantallas Wii Premio Fotos-11.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-12.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-13.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-14.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-15.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-16.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-17.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-18.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-19.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-20.jpg" />
+
+<source url="media/#6 Pantallas Wii Premio Fotos-21.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-22.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-23.jpg" />
+<source url="media/#6 Pantallas Wii Premio Fotos-24.jpg" />
+
+
+

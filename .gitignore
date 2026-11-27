@@ -1,0 +1,17 @@
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+Desktop.ini
+*.tmp
+*.log
+*.bak
+*~
+~$*
+.vs/
+.idea/
+*.user
+*.suo
+release/MuseoEFE.rar
+Copia de */
+Backup_old/

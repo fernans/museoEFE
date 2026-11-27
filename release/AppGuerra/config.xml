@@ -1,0 +1,29 @@
+<general reset="180" resetpage="1" />
+<!-- reset=segundos (3min*60=180) sin actividad para ir a pagina resetpage -->
+
+<nadie url="media/nadie.jpg" time="3" />
+<!-- imagen cuando no hay nadie delante, y tiempo para quitarla cuando se detecte a alguien -->
+
+<source url="media/Pantallas Guerra -1.jpg" />
+<source url="media/Pantallas Guerra -2.jpg" />
+<source url="media/Pantallas Guerra -3.jpg" />
+<source url="media/Pantallas Guerra -4.jpg" />
+<source url="media/Pantallas Guerra -5.jpg" />
+<source url="media/Pantallas Guerra -6.jpg" />
+<source url="media/Pantallas Guerra -7.jpg" />
+<source url="media/Pantallas Guerra -8.jpg" />
+<source url="media/Pantallas Guerra -9.jpg" />
+<source url="media/Pantallas Guerra -10.jpg" />
+
+<source url="media/Pantallas Guerra -11.jpg" />
+<source url="media/Pantallas Guerra -12.jpg" />
+<source url="media/Pantallas Guerra -13.jpg" />
+<source url="media/Pantallas Guerra -14.jpg" />
+<source url="media/Pantallas Guerra -15.jpg" />
+<source url="media/Pantallas Guerra -16.jpg" />
+<source url="media/Pantallas Guerra -17.jpg" />
+<source url="media/Pantallas Guerra -18.jpg" />
+<source url="media/Pantallas Guerra -19.jpg" />
+<source url="media/Pantallas Guerra -20.jpg" />
+
+

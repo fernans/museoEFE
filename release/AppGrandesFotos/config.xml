@@ -1,0 +1,27 @@
+<general reset="180" resetpage="1" />
+<!-- reset=segundos (3min*60=180) sin actividad para ir a pagina resetpage -->
+
+<nadie url="media/nadie.jpg" time="3" />
+<!-- imagen cuando no hay nadie delante, y tiempo para quitarla cuando se detecte a alguien -->
+
+<source url="media/Pantallas  Grandes Fotos-1.jpg" />
+<source url="media/Pantallas  Grandes Fotos-2.jpg" />
+<source url="media/Pantallas  Grandes Fotos-3.jpg" />
+<source url="media/Pantallas  Grandes Fotos-4.jpg" />
+<source url="media/Pantallas  Grandes Fotos-5.jpg" />
+<source url="media/Pantallas  Grandes Fotos-6.jpg" />
+<source url="media/Pantallas  Grandes Fotos-7.jpg" />
+<source url="media/Pantallas  Grandes Fotos-8.jpg" />
+<source url="media/Pantallas  Grandes Fotos-9.jpg" />
+<source url="media/Pantallas  Grandes Fotos-10.jpg" />
+
+<source url="media/Pantallas  Grandes Fotos-11.jpg" />
+<source url="media/Pantallas  Grandes Fotos-12.jpg" />
+<source url="media/Pantallas  Grandes Fotos-13.jpg" />
+<source url="media/Pantallas  Grandes Fotos-14.jpg" />
+<source url="media/Pantallas  Grandes Fotos-15.jpg" />
+<source url="media/Pantallas  Grandes Fotos-16.jpg" />
+<source url="media/Pantallas  Grandes Fotos-17.jpg" />
+<source url="media/Pantallas  Grandes Fotos-18.jpg" />
+<source url="media/Pantallas  Grandes Fotos-19.jpg" />
+
